@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+   
+    font-style: italic;
+}
+div{
+    word-spacing: 5px;
+}
